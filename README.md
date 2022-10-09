@@ -9,18 +9,8 @@ yarn install
 ### Compiles and hot-reloads for development
 
 ```
-yarn serve
+vue-cli-service build --watch
 ```
 
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
+chrome插件开发者选项打开 导入dist
 
